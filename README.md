@@ -13,7 +13,7 @@ The following was achieved and visualized in the coarse of the project
    Linear Regression -  This was used as the baseline model to understand the prediction capability of the linear model
    Random Forest - This was used to visualize the performance of the bagged model as well as the importance of the features in the dataset
    
-# Results
+## Results
 1. Random Forest achieved the overall lowest MSE=179.35 as compared to Linear regression with MSE=361.12
 2. Equally the R2 Statistic also shows the improvement in the prediction from Linear model to random forest model i.e.,0.622 - 0.8471
 
